@@ -1,5 +1,5 @@
 services:
-  oktetovmess:
+  ruzhu-77:
     build: .
     shm_size: 2.6gb
     ports:
